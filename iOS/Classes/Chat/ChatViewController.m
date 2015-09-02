@@ -1,11 +1,3 @@
-//
-//  ChatViewController.m
-//  Tinder
-//
-//  Created by Rahul Sharma on 29/11/13.
-//  Copyright (c) 2013 3Embed. All rights reserved.
-//
-
 #import "ChatViewController.h"
 #import "ProfileMatchedCell.h"
 #import "MatchedUserList.h"
