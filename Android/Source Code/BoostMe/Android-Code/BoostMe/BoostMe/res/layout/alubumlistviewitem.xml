@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/albumlistviewitem"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/white"
+    android:cacheColorHint="@android:color/transparent" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true" >
+
+        <RelativeLayout
+            android:id="@+id/alubumitemimageViewParent"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp" >
+
+            <com.android.volley.toolbox.NetworkImageView
+                android:id="@+id/albumlistviewitemImageview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/ic_launcher" />
+            <!--
+             <ImageView 
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:id="@+id/albumlistviewitemImageview"
+             android:layout_centerVertical="true"
+            
+             android:layout_marginLeft="1dp"
+             android:layout_marginTop="1dp"
+           
+            
+            />
+            -->
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/storybookTextItemlayout"
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/alubumitemimageViewParent"
+            android:orientation="vertical" >
+
+            <!--
+       <RelativeLayout 
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:id="@+id/storyBookListItemNameLayout"
+       android:layout_centerHorizontal="true"
+      
+            >
+            -->
+
+            <TextView
+                android:id="@+id/albumlistviewitemTextView"
+                android:layout_width="180dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="20dp"
+                android:singleLine="true"
+                android:text="item name"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/photocount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/albumlistviewitemTextView"
+                android:singleLine="true"
+                android:text="photocount"
+                android:textColor="@color/black" />
+
+            <!-- </RelativeLayout> -->
+
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>
