@@ -1,12 +1,3 @@
-//
-//  AllConstants.h
-//  Tinder
-//
-//  Created by Elluminati - macbook on 08/04/14.
-//  Copyright (c) 2014 AppDupe. All rights reserved.
-//
-
-
 //sex selection
 typedef enum : NSUInteger{
     EntSexMale=1,
