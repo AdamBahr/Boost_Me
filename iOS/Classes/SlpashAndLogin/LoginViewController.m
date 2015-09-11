@@ -1,11 +1,3 @@
-//
-//  LoginViewController.m
-//  Tinder
-//
-//  Created by Rahul Sharma on 24/11/13.
-//  Copyright (c) 2013 3Embed. All rights reserved.
-//
-
 #import "LoginViewController.h"
 #import "TinderAppDelegate.h"
 #import "Helper.h"

@@ -1,11 +1,3 @@
-//
-//  AllConstants.m
-//  Tinder
-//
-//  Created by Elluminati - macbook on 08/04/14.
-//  Copyright (c) 2014 AppDupe. All rights reserved.
-//
-
 #import "AllConstants.h"
 
 //Fonts Helper

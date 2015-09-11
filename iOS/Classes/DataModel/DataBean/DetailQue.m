@@ -1,11 +1,3 @@
-//
-//  DetailQue.m
-//  Tinder
-//
-//  Created by Elluminati - macbook on 23/04/14.
-//  Copyright (c) 2014 AppDupe. All rights reserved.
-//
-
 #import "DetailQue.h"
 
 @implementation DetailQue

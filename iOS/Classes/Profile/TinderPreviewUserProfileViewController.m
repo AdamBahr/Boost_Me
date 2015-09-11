@@ -1,11 +1,3 @@
-//
-//  TinderPreviewUserProfileViewController.m
-//  Tinder
-//
-//  Created by Vinay Raja on 10/12/13.
-//  Copyright (c) 2013 3Embed. All rights reserved.
-//
-
 #import "TinderPreviewUserProfileViewController.h"
 #import "MyTableViewCell.h"
 #import "UIImageView+WebCache.h"

@@ -1,11 +1,3 @@
-//
-//  EditProfileVC.m
-//  Tinder
-//
-//  Created by Elluminati - macbook on 14/05/14.
-//  Copyright (c) 2014 AppDupe. All rights reserved.
-//
-
 #import "EditProfileVC.h"
 
 #import "UIImageView+Download.h"

@@ -1,11 +1,3 @@
-//
-//  Login.m
-//  Tinder
-//
-//  Created by Rahul Sharma on 05/12/13.
-//  Copyright (c) 2013 3Embed. All rights reserved.
-//
-
 #import "Login.h"
 
 

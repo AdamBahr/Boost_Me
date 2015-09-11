@@ -1,11 +1,3 @@
-//
-//  QuestionVC.m
-//  Tinder
-//
-//  Created by Elluminati - macbook on 26/05/14.
-//  Copyright (c) 2014 AppDupe. All rights reserved.
-//
-
 #import "QuestionVC.h"
 
 #import "ViewQA.h"

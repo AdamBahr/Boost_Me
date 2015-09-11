@@ -1,11 +1,3 @@
-//
-//  ProfileViewController.h
-//  Tinder
-//
-//  Created by Rahul Sharma on 03/12/13.
-//  Copyright (c) 2013 3Embed. All rights reserved.
-//
-
 #import <UIKit/UIKit.h>
 
 @interface ProfileViewController : UIViewController<UIScrollViewDelegate,UIGestureRecognizerDelegate,PPRevealSideViewControllerDelegate>

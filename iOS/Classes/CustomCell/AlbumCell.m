@@ -1,11 +1,3 @@
-//
-//  AlbumCell.m
-//  FriendPickerSample
-//
-//  Created by Surender Rathore on 08/12/13.
-//
-//
-
 #import "AlbumCell.h"
 
 @implementation AlbumCell

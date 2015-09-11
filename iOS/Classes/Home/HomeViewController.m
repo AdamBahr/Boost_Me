@@ -1,12 +1,3 @@
-
-//
-//  HomeViewController.m
-//  Tinder
-//
-//  Created by Rahul Sharma on 24/11/13.
-//  Copyright (c) 2013 3Embed. All rights reserved.
-//
-
 #import "HomeViewController.h"
 #import <FacebookSDK/FBSessionTokenCachingStrategy.h>
 #import <FacebookSDK/FacebookSDK.h>

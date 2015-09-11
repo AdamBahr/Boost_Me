@@ -1,11 +1,3 @@
-//
-//  ProfileViewController.m
-//  Tinder
-//
-//  Created by Rahul Sharma on 03/12/13.
-//  Copyright (c) 2013 3Embed. All rights reserved.
-//
-
 #import "ProfileViewController.h"
 #import "MyTableViewCell.h"
 #import "UploadImages.h"

@@ -1,11 +1,3 @@
-//
-//  ProfileMatchedCell.m
-//  TinderChatModule
-//
-//  Created by Rahul Sharma on 05/12/13.
-//  Copyright (c) 2013 Rahul Sharma. All rights reserved.
-//
-
 #import "ProfileMatchedCell.h"
 #import "Helper.h"
 #import <QuartzCore/QuartzCore.h>

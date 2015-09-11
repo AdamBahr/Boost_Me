@@ -1,11 +1,3 @@
-//
-//  MyTableViewCell.m
-//  test
-//
-//  Created by Vinay Raja on 27/11/13.
-//  Copyright (c) 2013 Vinay Raja. All rights reserved.
-//
-
 #import "MyTableViewCell.h"
 #import <QuartzCore/QuartzCore.h>
 #import "RoundedImageView.h"

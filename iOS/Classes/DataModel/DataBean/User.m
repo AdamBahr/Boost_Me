@@ -1,11 +1,3 @@
-//
-//  User.m
-//  Tinder
-//
-//  Created by Elluminati - macbook on 07/05/14.
-//  Copyright (c) 2014 AppDupe. All rights reserved.
-//
-
 #import "User.h"
 
 @implementation User

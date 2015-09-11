@@ -1,11 +1,3 @@
-//
-//  MyTableViewCell.h
-//  test
-//
-//  Created by Vinay Raja on 27/11/13.
-//  Copyright (c) 2013 Vinay Raja. All rights reserved.
-//
-
 #import <UIKit/UIKit.h>
 @class RoundedImageView;
 @interface MyTableViewCell : UITableViewCell
